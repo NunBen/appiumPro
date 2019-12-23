@@ -1,0 +1,24 @@
+platformName: Android
+#模拟器
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:62001
+
+#mx4真机
+#platformVersion: 5.1
+#udid: 750BBKL22GDN
+#deviceName: MX4
+
+
+
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+#
+appname: kaoyan3.1.0.apk
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+#appname: lishuampos-umeng-debug.apk
+#appPackage: com.shuabei.mpos
+#appActivity: com.shuabei.guide.SplashActivity
+ip: 127.0.0.1
+port: 4723
